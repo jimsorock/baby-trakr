@@ -1,0 +1,24 @@
+{
+  "name": "baby-trak",
+  "version": "1.0.0",
+  "description": "Baby Info Tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Jimmy Muga",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-app": "^3.0.0",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "dotenv": "^4.0.0",
+    "dynamite": "^0.9.1",
+    "lodash": "^4.17.4",
+    "mocha": "^3.2.0",
+    "moment": "^2.17.1",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1",
+    "words-to-num": "0.0.2"
+  }
+}
